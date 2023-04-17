@@ -26,8 +26,3 @@ This is a simple Python script that converts PDF files to Markdown text. The scr
 
 - If the PDF file is not located in the same directory as the script, you should provide the full path to the PDF file when prompted.
 - The generated Markdown text may require further formatting or editing, depending on the original PDF content and desired output.
-
-## License
-
-This script is released under the [MIT License](LICENSE).
-
